@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  contact
+
+  Created by Damien Baronnet on 05/02/2022.
+  
+*/
+"formNotValid" = "Veuillez saisir un point de départ et d'arrivée";
+"searchError" = "Erreur lors de la recherche. Veuillez réessayer";
+"retry" = "Réessayer";
+"cancel" = "Annuler";
+"ok" = "Ok";
+"usernameLabel" = "Identifiant";
+"cellLabel" = "Mobile";
+"phoneLabel" = "Téléphone";
+"locationLabel" = "Adresse";
+"birthdateLabel" = "Date de naissance";
+"contactListTitle" = "Liste des contacts";
+"contactDetailTitle" = "Detail";
