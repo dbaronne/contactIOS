@@ -1,4 +1,4 @@
-#contact
+# contact
 Sample application that implement a list of contact
 
 To run this project : 
